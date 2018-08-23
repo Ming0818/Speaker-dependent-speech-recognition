@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 26 19:57:32 2016
 
-@author: ORCHISAMA
-"""
 
 from __future__ import division
 import numpy as np
