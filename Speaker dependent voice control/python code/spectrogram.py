@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb 23 23:53:09 2016
 
-@author: ORCHISAMA
-"""
 #calculate short time fourier transform and plot spectrogram
 from __future__ import division
 import matplotlib.pyplot as plt
