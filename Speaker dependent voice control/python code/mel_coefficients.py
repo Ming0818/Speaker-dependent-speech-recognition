@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 24 22:48:15 2016
 
-@author: ORCHISAMA
-"""
 
 from __future__ import division
 from scipy.signal import hamming
